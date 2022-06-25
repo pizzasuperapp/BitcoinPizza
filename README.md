@@ -1,4 +1,4 @@
-# Bitcoin Pizaa Core integration/staging tree
+# Bitcoin Pizaa integration/staging tree
 
 For an immediately usable, binary version of the Bitcoin Pizaa Core software, see
 https://www.PizzaCorporation.com
